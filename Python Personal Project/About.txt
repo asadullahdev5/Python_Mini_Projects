@@ -1,0 +1,20 @@
+Medicines arranging Software
+
+1. Add Medicines
+2. View Medicines
+3. See Expiry Alerts
+4. Remaining Medicines
+5. Which Medicines are Expired
+6. Which Companies Medicines Product We are Selling
+7. General Items Categories
+8. which items we sell today.....how many Medicines and how many generals
+
+
+
+1. Medicine Name Required
+2. Medicine Quantity Required
+3. Expiry Date Required
+4. General Product Name Required
+5. Price
+6. Batch No Required
+
